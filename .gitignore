@@ -1,0 +1,3 @@
+*.class
+MultipleThreadStopping/bin/*
+RemoteSystemsTempFiles/*

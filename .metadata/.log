@@ -1,0 +1,507 @@
+!SESSION 2014-08-27 15:08:49.797 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data /home/krzysiek/scalaide-minimals -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:32.973
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:32.973
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:32.973
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:32.973
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:32.973
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:32.973
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:32.973
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:33.003
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:33.003
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.003
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.003
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:33.003
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.003
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.003
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:33.038
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:33.038
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.038
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.038
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:33.038
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.038
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.038
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:33.039
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:33.039
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.039
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.039
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:33.039
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.039
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:33.039
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:56.685
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2014-08-27 15:09:56.685
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.685
+!MESSAGE "Scala IDE for Eclipse" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.685
+!MESSAGE "sbt 0.13.2" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:56.685
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.685
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.685
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:56.685
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.685
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.685
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:56.687
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2014-08-27 15:09:56.687
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.687
+!MESSAGE "Scala IDE for Eclipse" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.687
+!MESSAGE "sbt 0.13.2" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:56.687
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.687
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.687
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:56.687
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.687
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.687
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:56.692
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2014-08-27 15:09:56.692
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.692
+!MESSAGE "Scala IDE for Eclipse" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.692
+!MESSAGE "sbt 0.13.2" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:56.692
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:56.692
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:09:56.692
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2014-08-27 15:09:56.692
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.692
+!MESSAGE "Scala IDE for Eclipse" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2014-08-27 15:09:56.692
+!MESSAGE "sbt 0.13.2" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:09:56.692
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE Missing requirement: Scala Debug Plugin 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.debug 4.0.0.nightly-2_11-201408251536-ad1347a) requires 'bundle org.eclipse.jdt.core [3.10.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:09:56.692
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:09:56.692
+!MESSAGE To: org.scala-ide.sdt.debug [4.0.0.nightly-2_11-201408251536-ad1347a]
+!SESSION 2014-08-27 15:10:18.201 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:11:34.544
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:11:34.544
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE Missing requirement: WeavingService Plug-in 1.0.400.weaving-hook-20140821 (org.eclipse.equinox.weaving.aspectj 1.0.400.weaving-hook-20140821) requires 'package org.osgi.framework.namespace 1.1.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.544
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE To: org.scala-ide.sdt.weaving.feature.feature.group [4.0.0.nightly-2_11-201408251536-ad1347a]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.544
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE From: JDT Weaving for Scala 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.weaving.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.544
+!MESSAGE To: org.eclipse.equinox.weaving.aspectj [1.0.400.weaving-hook-20140821]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:11:34.546
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:11:34.546
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE Missing requirement: WeavingService Plug-in 1.0.400.weaving-hook-20140821 (org.eclipse.equinox.weaving.aspectj 1.0.400.weaving-hook-20140821) requires 'package org.osgi.framework.namespace 1.1.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.546
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE To: org.scala-ide.sdt.weaving.feature.feature.group [4.0.0.nightly-2_11-201408251536-ad1347a]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.546
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE From: JDT Weaving for Scala 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.weaving.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.546
+!MESSAGE To: org.eclipse.equinox.weaving.aspectj [1.0.400.weaving-hook-20140821]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:11:34.554
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:11:34.554
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.554
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE Missing requirement: WeavingService Plug-in 1.0.400.weaving-hook-20140821 (org.eclipse.equinox.weaving.aspectj 1.0.400.weaving-hook-20140821) requires 'package org.osgi.framework.namespace 1.1.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.555
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE To: org.scala-ide.sdt.weaving.feature.feature.group [4.0.0.nightly-2_11-201408251536-ad1347a]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.555
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE From: JDT Weaving for Scala 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.weaving.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE To: org.eclipse.equinox.weaving.aspectj [1.0.400.weaving-hook-20140821]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-08-27 15:11:34.555
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-08-27 15:11:34.555
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE Missing requirement: WeavingService Plug-in 1.0.400.weaving-hook-20140821 (org.eclipse.equinox.weaving.aspectj 1.0.400.weaving-hook-20140821) requires 'package org.osgi.framework.namespace 1.1.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.555
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE To: org.scala-ide.sdt.weaving.feature.feature.group [4.0.0.nightly-2_11-201408251536-ad1347a]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:11:34.555
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE From: JDT Weaving for Scala 4.0.0.nightly-2_11-201408251536-ad1347a (org.scala-ide.sdt.weaving.feature.feature.group 4.0.0.nightly-2_11-201408251536-ad1347a)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:11:34.555
+!MESSAGE To: org.eclipse.equinox.weaving.aspectj [1.0.400.weaving-hook-20140821]
+!SESSION 2014-08-27 15:14:08.021 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-08-27 15:14:49.246
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2014-08-27 15:14:49.246
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.246
+!MESSAGE "Scala IDE for Eclipse Source" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.246
+!MESSAGE "sbt 0.13.2" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.246
+!MESSAGE "sbt 0.13.2 sources" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-08-27 15:14:49.246
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE Software currently installed: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.247
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201407020518)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE From: sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.group 4.0.0.201407020518)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201407020518]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE From: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201408251536]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.247
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.247
+!MESSAGE To: org.scala-ide.sbt.feature.feature.group [4.0.0.201407020518]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-08-27 15:14:49.249
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2014-08-27 15:14:49.249
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.249
+!MESSAGE "Scala IDE for Eclipse Source" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.249
+!MESSAGE "sbt 0.13.2" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.249
+!MESSAGE "sbt 0.13.2 sources" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-08-27 15:14:49.249
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE Software currently installed: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.249
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201407020518)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.249
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE From: sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.group 4.0.0.201407020518)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201407020518]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.249
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE From: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201408251536]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.249
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.249
+!MESSAGE To: org.scala-ide.sbt.feature.feature.group [4.0.0.201407020518]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-08-27 15:14:49.256
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2014-08-27 15:14:49.256
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.256
+!MESSAGE "Scala IDE for Eclipse Source" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.256
+!MESSAGE "sbt 0.13.2" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.256
+!MESSAGE "sbt 0.13.2 sources" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-08-27 15:14:49.256
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.256
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.256
+!MESSAGE Software currently installed: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.256
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201407020518)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.257
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE From: sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.group 4.0.0.201407020518)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201407020518]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.257
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE From: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201408251536]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.257
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE To: org.scala-ide.sbt.feature.feature.group [4.0.0.201407020518]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-08-27 15:14:49.257
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2014-08-27 15:14:49.257
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.257
+!MESSAGE "Scala IDE for Eclipse Source" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.257
+!MESSAGE "sbt 0.13.2" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2014-08-27 15:14:49.257
+!MESSAGE "sbt 0.13.2 sources" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-08-27 15:14:49.257
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE Software being installed: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE Software currently installed: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.257
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.jar 4.0.0.201407020518)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.257
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE From: sbt 0.13.2 4.0.0.201407020518 (org.scala-ide.sbt.feature.feature.group 4.0.0.201407020518)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.257
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201407020518]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.258
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.258
+!MESSAGE From: sbt 0.13.2 4.0.0.201408251536 (org.scala-ide.sbt.feature.feature.group 4.0.0.201408251536)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.258
+!MESSAGE To: org.scala-ide.sbt.feature.feature.jar [4.0.0.201408251536]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-08-27 15:14:49.258
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.258
+!MESSAGE From: Scala IDE for Eclipse 4.0.0.nightly-2_10-201407020519-79b94f6 (org.scala-ide.sdt.feature.feature.group 4.0.0.nightly-2_10-201407020519-79b94f6)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-08-27 15:14:49.258
+!MESSAGE To: org.scala-ide.sbt.feature.feature.group [4.0.0.201407020518]
+!SESSION 2014-08-27 15:27:57.359 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-27 15:29:11.294
+!MESSAGE Unable to find Action Set: org.eclipse.wb.core.ui.actionset
+!SESSION 2014-08-27 15:38:09.055 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2014-08-27 15:38:22.070
+!MESSAGE Unable to find Action Set: org.eclipse.wb.core.ui.actionset
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:39:32.108
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:39:32.110
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:39:59.748
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:39:59.748
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:42:04.217
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:42:04.217
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:31.343
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:31.343
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:39.505
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:39.505
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:48.268
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:44:48.269
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.eclipse.jface 2 0 2014-08-27 15:46:24.754
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-08-27 15:46:24.754
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26ef7a5c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@23f59ad9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:46:59.956
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:46:59.956
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.
+
+!ENTRY org.eclipse.core.resources 2 2 2014-08-27 15:51:59.839
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2014-08-27 15:51:59.839
+!MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:52:38.423
+!MESSAGE Project MultipleThreadStopping has platform default sourceLevel.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2014-08-27 15:52:38.423
+!MESSAGE Project MultipleThreadStopping runs on platform default installation.

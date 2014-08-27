@@ -1,0 +1,13 @@
+object Main extends App {
+  val threads = (1 to 4).map(_ => new ThreadJob()
+  threads.foreach(_.start())
+}
+
+class ThreadJob extends Thread{
+  override def run(): Unit = {
+    while(true){
+      println("Working: " + getName())
+      Thread.sleep(1000)
+    }
+  }
+}

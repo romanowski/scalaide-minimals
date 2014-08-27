@@ -1,0 +1,46 @@
+2014-08-27 15:39:32,110  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:39:32,110  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:39:59,748  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:39:59,749  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:42:04,217  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:42:04,217  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:44:31,343  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:44:31,343  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:44:39,505  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:44:39,505  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:44:48,268  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:44:48,269  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:46:17,014 ERROR [ForkJoinPool-1-worker-1] - System.err - java.lang.InternalError: Got MethodID of ReferenceType that is not a member of the ReferenceType
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.eclipse.jdi.internal.MethodImpl.readWithReferenceTypeWithTag(MethodImpl.java:697)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.eclipse.jdi.internal.LocationImpl.read(LocationImpl.java:169)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.eclipse.jdi.internal.StackFrameImpl.readWithLocation(StackFrameImpl.java:354)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.eclipse.jdi.internal.ThreadReferenceImpl.frames(ThreadReferenceImpl.java:275)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.eclipse.jdi.internal.ThreadReferenceImpl.frames(ThreadReferenceImpl.java:240)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThread$$anonfun$suspend$2.apply$mcV$sp(ScalaThread.scala:178)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThread$$anonfun$suspend$2.apply(ScalaThread.scala:176)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThread$$anonfun$suspend$2.apply(ScalaThread.scala:176)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.util.control.Exception$Catch.apply(Exception.scala:103)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThread.suspend(ScalaThread.scala:176)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThreadActor$$anonfun$behavior$1.applyOrElse(ScalaThread.scala:247)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.PartialFunction$OrElse.apply(PartialFunction.scala:167)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:130)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThreadActor.scala$actors$InternalReplyReactor$$super$resumeReceiver(ScalaThread.scala:235)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:60)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThreadActor.resumeReceiver(ScalaThread.scala:235)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at org.scalaide.debug.internal.model.ScalaThreadActor.searchMailbox(ScalaThread.scala:235)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:118)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+2014-08-27 15:46:17,018 ERROR [ForkJoinPool-1-worker-1] - System.err - at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2014-08-27 15:46:59,956  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:46:59,956  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
+2014-08-27 15:52:38,423  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping has platform default sourceLevel.
+2014-08-27 15:52:38,423  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Project MultipleThreadStopping runs on platform default installation.
